@@ -5,7 +5,7 @@
 > Repositório dedicado a projetos e scripts personalizados para **Fivem** e **Samp**, incluindo sistemas, sites e ferramentas para servidores roleplay ou freeroam!  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26FPqut4nD1hXrUX2/giphy.gif" alt="Server Setup" width="500"/>
+  <img src="https://media4.giphy.com/media/5OltuseB5nhEcWJDaL/giphy.gif?cid=6c09b952xl17hzie67ncm15zpjn0wta3urp4uvdlsi8w1dkb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Server Setup" width="500"/>
 </div>
 
 ---
