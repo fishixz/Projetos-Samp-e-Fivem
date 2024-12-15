@@ -25,6 +25,7 @@
 Contribuições são sempre bem-vindas! Envie um Pull Request ou entre em contato diretamente.
 
 📧 Email: Edyxluiz@gmail.com
+
 🔗 Discord: Bruninhurp
 
 ---
