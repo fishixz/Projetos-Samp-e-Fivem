@@ -32,9 +32,14 @@ Contribuições são sempre bem-vindas! Envie um Pull Request ou entre em contat
 # Projetos Samp e Fivem  
 
 ![Status](https://img.shields.io/badge/Status-Ativo-success?style=flat-square)  
-![Linguagem](https://img.shields.io/badge/Linguagem-Lua-blue?style=flat-square)  
+![Fivem](https://img.shields.io/badge/Fivem-Framework-blue?style=flat-square)  
+![Samp](https://img.shields.io/badge/Samp-Scripting-red?style=flat-square)  
+![Lua](https://img.shields.io/badge/Lua-Scripting-blue?style=flat-square)  
+![Pwn](https://img.shields.io/badge/Pwn-Scripting-yellow?style=flat-square)  
+![HTML](https://img.shields.io/badge/HTML-Frontend-orange?style=flat-square)  
+![CSS](https://img.shields.io/badge/CSS-Frontend-blue?style=flat-square)  
+![Python](https://img.shields.io/badge/Python-Backend-green?style=flat-square)  
 ![Licença](https://img.shields.io/badge/Licença-MIT-green?style=flat-square)  
-![Versão](https://img.shields.io/badge/Versão-1.0.0-orange?style=flat-square)  
-![Discord](https://img.shields.io/badge/Discord-Bruninhurp%231234-blue?style=flat-square)
+![Versão](https://img.shields.io/badge/Versão-1.0.0-orange?style=flat-square)
 
 ---
