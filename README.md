@@ -28,3 +28,13 @@ Contribuições são sempre bem-vindas! Envie um Pull Request ou entre em contat
 🔗 Discord: Bruninhurp
 
 ---
+
+# Projetos Samp e Fivem  
+
+![Status](https://img.shields.io/badge/Status-Ativo-success?style=flat-square)  
+![Linguagem](https://img.shields.io/badge/Linguagem-Lua-blue?style=flat-square)  
+![Licença](https://img.shields.io/badge/Licença-MIT-green?style=flat-square)  
+![Versão](https://img.shields.io/badge/Versão-1.0.0-orange?style=flat-square)  
+![Discord](https://img.shields.io/badge/Discord-Bruninhurp%231234-blue?style=flat-square)
+
+---
