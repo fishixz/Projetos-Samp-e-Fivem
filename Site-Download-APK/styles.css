@@ -1,0 +1,87 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #101010;
+  color: #fafafa;
+  line-height: 1.6;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.card {
+  max-width: 40rem;
+  width: 100%;
+  background: #1a1a1a;
+  padding: 20px;
+  border: 1px solid #27272a;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 1.875rem; /* Tamanho correspondente ao text-3xl */
+  margin-top: 2.5rem; /* mt-10 */
+  font-weight: 800; /* font-extrabold */
+  background: linear-gradient(to top, #ce7e22, #ce7e29); /* Gradiente */
+  -webkit-background-clip: text; /* Texto com gradiente */
+  color: transparent; /* Transparente para exibir o gradiente */
+  font-style: italic; /* Italic */
+  text-transform: uppercase; /* Texto em maiúsculas */
+  text-align: center; /* Alinhamento central */
+}
+
+.instructions {
+  color: #a1a1aa;
+  margin: 20px 0;
+  font-size: 0.9rem;
+}
+
+.button {
+  display: inline-block;
+  background-color: #ce7e01;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #ce7e35;
+}
+
+.footer-link {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.footer-link a {
+  color: #a1a1aa;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+}
+
+.footer-link a:hover {
+  color: #ce7e50;
+}
